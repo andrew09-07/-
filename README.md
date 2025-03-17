@@ -1,2 +1,2 @@
-# -
-심심하다
+for i in range(6):
+  print(9)
